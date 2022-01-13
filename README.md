@@ -43,6 +43,11 @@ https://github.com/threatspec/threatspec
 - Pytm 
 https://github.com/izar/pytm
 
+## Special Thank You
+
+- A special thank you to Dinis Cruz for being an everlasting source of ideas and inspiration, especially when it comes down to nifty techy cool solutions
+- Special thank you to Simon Wardley for his Wardley Maps and for supporting my Wardley Mapping Journey
+
 
 
 To do:
